@@ -15,7 +15,7 @@ Just a small town guy, working as a network administrator and studying full-stac
   <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/bun/282A36/F8F8F2" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/git" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/github" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/github/282A36/F8F8F2" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/pocketbase/282A36/F8F8F2" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/postgresql" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/supabase" />
